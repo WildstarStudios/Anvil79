@@ -1,9 +1,1 @@
-Add-on Policy for Anvil79
 
-Anvil79 is licensed under the GNU General Public License v3 (GPLv3). This license governs the core software.
-
-Add-ons, plugins, and extensions that run within Anvil79 must currently be distributed freely under an open source license, unless explicit permission is granted by the developer of Anvil79.
-
-In the future, paid add-ons may be permitted under specific terms defined by the developer. This policy is subject to change.
-
-This policy is not part of the GPLv3 license, but reflects the current expectations for the Anvil79 ecosystem.
